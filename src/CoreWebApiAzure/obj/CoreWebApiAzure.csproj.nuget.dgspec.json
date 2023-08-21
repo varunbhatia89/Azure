@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {}
+    "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {}
   },
   "projects": {
-    "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {
+    "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj",
+        "projectUniqueName": "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj",
         "projectName": "CoreWebApiAzure",
-        "projectPath": "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj",
+        "projectPath": "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\obj\\",
+        "outputPath": "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

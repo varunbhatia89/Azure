@@ -5990,11 +5990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\CoreWebApiAzure.Test.csproj",
+      "projectUniqueName": "C:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\CoreWebApiAzure.Test.csproj",
       "projectName": "CoreWebApiAzure.Test",
-      "projectPath": "c:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\CoreWebApiAzure.Test.csproj",
+      "projectPath": "C:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\CoreWebApiAzure.Test.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\obj\\",
+      "outputPath": "C:\\Work\\Learning\\Azure\\test\\CoreWebApiAzure.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6011,8 +6011,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {
-              "projectPath": "c:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj"
+            "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj": {
+              "projectPath": "C:\\Work\\Learning\\Azure\\src\\CoreWebApiAzure\\CoreWebApiAzure.csproj"
             }
           }
         }
