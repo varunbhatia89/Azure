@@ -13,6 +13,6 @@ public class UnitTest1
     public void Test1()
     {
         var result = objValController.Get('1'); ///Act
-        Assert.Equal("value", result);
+        Assert.Equal("value1", result);
     }
 }
