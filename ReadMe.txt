@@ -20,3 +20,14 @@ What is the architecture of the Application?
 
 
 	Github Repository ---------  https://github.com/varunbhatia89/Azure.git
+
+	16-08-2023
+	---------------------------------------------------------------------
+
+	Devops has so many features
+		1. Pipeline (Unit Testing, Integration) - Pipeline is a delegation model of Devops to notify to any repository to achieve callback
+
+
+21-08-2023
+-----------------------------------------------------------------------
+Now we need to see whether application supports CI or not?
