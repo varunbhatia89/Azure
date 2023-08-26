@@ -35,3 +35,8 @@ Now we need to see whether application supports CI or not?
 
 26-08-2023
 ------------------------------------------------------------------
+git add .
+git status
+git commit -m "Initial Commit"
+git status
+git push -u origin main
