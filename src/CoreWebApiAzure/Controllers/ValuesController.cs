@@ -19,14 +19,14 @@ public class ValuesController : Controller
     [HttpGet]
     public IEnumerable<string> Get()
     {
-        return new string[] { "value1", "value2" };
+        return new string[] { "Varun", "Bhatia" };
     }
 
     // GET api/values/5
     [HttpGet("{id}")]
     public string Get(int id)
     {
-        return "value";
+        return "Bunny";
     }
 
     // POST api/values

@@ -31,3 +31,7 @@ What is the architecture of the Application?
 21-08-2023
 -----------------------------------------------------------------------
 Now we need to see whether application supports CI or not?
+
+
+26-08-2023
+------------------------------------------------------------------
