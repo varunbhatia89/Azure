@@ -40,3 +40,14 @@ git status
 git commit -m "Initial Commit"
 git status
 git push -u origin main
+
+
+https://dotnetplaybook.com/build-test-and-deploy-a-rest-api-with-azure-devops/
+
+29-08-2023
+---------------------------------------------------------
+Continuous Integration is running successfully with Unit Test.
+
+---> Azure artifacts (packaging)
+
+Publish + Zip 
